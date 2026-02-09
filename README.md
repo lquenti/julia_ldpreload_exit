@@ -5,6 +5,8 @@ tested with Julia 1.12.4 installed on Debian 13 via juliaup.
 ## How to use
 run `./reproduce.sh`
 
+Note: It fails with both g++ and clang++
+
 ## Output
 ```
 ~/code/julia_ldpreload_exit$ ./reproduce.sh 
