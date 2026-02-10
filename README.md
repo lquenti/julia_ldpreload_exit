@@ -1,5 +1,7 @@
 # Possible Julia Bug when overwriting `_exit` via `LD_PRELOAD`
 
+Issue: <https://github.com/JuliaLang/julia/issues/60971>
+
 tested with Julia 1.12.4 installed on Debian 13 via juliaup.
 
 ## How to use
