@@ -4,6 +4,8 @@ Issue: <https://github.com/JuliaLang/julia/issues/60971>
 
 tested with Julia 1.12.4 installed on Debian 13 via juliaup.
 
+Issue was closed as not planned, thus this repo is only archived for reference (and maybe other poor souls who do `LD_PRELOAD`ing
+
 ## How to use
 run `./reproduce.sh`
 
